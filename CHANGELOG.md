@@ -1,5 +1,11 @@
 # counterfact
 
+## 0.5.0
+
+### Minor Changes
+
+- de5e92b: use example values (if present) when generating random data
+
 ## 0.4.0
 
 ### Minor Changes
